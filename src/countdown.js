@@ -18,3 +18,5 @@ function countdownTimer(startTime, interval) {
   // Stop the timer when time reaches 0
   // Return the timer ID for validation
 }
+
+module.exports = { countdownTimer };
